@@ -306,6 +306,11 @@ npm run build
 - Open a movie and confirm the graph panel loads
 - Check `GET /api/health` on the backend URL
 
+### Live Links
+
+- Frontend: https://wexaai-movie-explorer-frontend.vercel.app
+- Backend: https://wexaai-movie-explorer-backend.onrender.com
+
 ## API Endpoints
 
 - `GET /api/health`
@@ -325,7 +330,7 @@ Add screenshots of:
 
 ## Hosted Demo
 
-- Demo link: `ADD_LINK_HERE`
+- Demo link: https://wexaai-movie-explorer-frontend.vercel.app
 
 ## Screen Recording
 
@@ -333,7 +338,7 @@ Add screenshots of:
 
 ## Repository
 
-- Public GitHub repo: `ADD_LINK_HERE`
+- Public GitHub repo: https://github.com/Noorulislam01/wexaai-movie-explorer1
 
 ## Notes
 
