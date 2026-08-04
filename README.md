@@ -334,7 +334,7 @@ Add screenshots of:
 
 ## Screen Recording
 
-- Recording link: `ADD_LINK_HERE`
+- Recording link: https://jam.dev/c/7693ca01-1710-4ec4-a475-e2d9d020dc7e
 
 ## Repository
 
